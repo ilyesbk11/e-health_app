@@ -31,7 +31,9 @@ These features are still in development and are partially available:
 ## How to Use 
 
 **Step 1:**
-Download Flutter
+
+-Download Flutter: flutter.dev
+
 [Download or clone this repo by using this link: https://github.com/ilyesbk11/e-health_app]
 
 **Step 2:**
